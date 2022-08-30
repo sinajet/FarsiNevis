@@ -11,7 +11,7 @@ You may have encountered problems while writing Persian or Arabic in some progra
 - Ability to remove or insert Harakat<br>
 - The possibility of opening the txt file inside the program and saving the output text as txt<br>
 <h3>Note: The program is only in Farsi language!! If you like, edit the codes and publish them in other languages on your GitHub!<h3><br>
-<h2>You can Downlaod EXE files From <a href="https://github.com/sinajet/SQLinPythonExample/releases">(here)</a> <br></h2>
+<h2>You can Downlaod EXE files From <a href="https://github.com/sinajet/FarsiNevis/releases">(here)</a> <br></h2>
 <p dir="rtl">
 <h1>توضیحات فارسی</h1><br>
 <h2>این برنامه عربی-فارسی را به صورت جداگانه و معکوس  می نویسد</h1><br>
@@ -22,4 +22,4 @@ You may have encountered problems while writing Persian or Arabic in some progra
 <p dir="rtl">-تبدیل اعداد انگلیسی به  اعداد فارسی یا عربی</p><br>
 <p dir="rtl">-امکان برداشتن یا گذاشتن حرکات عربی</p><br>
 <p dir="rtl">-امکان بازکردن فایل تکست داخل برنامه و ذخیره سازی متن خروجی به صورت تکست</p><br>
-<p dir="rtl"><h2>شما می‌توانید خروجی exe برنامه را از <a href="https://github.com/sinajet/SQLinPythonExample/releases">(اینجا)</a> دانلود کنید<h2></p>
+<p dir="rtl"><h2>شما می‌توانید خروجی exe برنامه را از <a href="https://github.com/sinajet/FarsiNevis/releases">(اینجا)</a> دانلود کنید<h2></p>
